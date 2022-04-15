@@ -1,0 +1,41 @@
+#clear{  
+    width: 230px;  
+    border: 2px solid rgb(0, 0, 0); 
+    margin-top: 20px;
+        border-radius: 3px;  
+        padding: 20px;  
+        background-color: red;  
+    }  
+      
+    .formstyle  
+    {  
+    width: 240px;  
+    height: 530px;  
+    margin: auto;  
+    border: 3px solid rgb(0, 0, 0);  
+    border-radius: 5px;  
+    padding: 20px;  
+    }  
+      
+      
+    input  
+    {  
+    width: 20px;  
+    background-color: rgb(219, 219, 219);  
+    color: rgb(0, 0, 0);  
+    border: 2px solid rgb(0, 0, 0);  
+        border-radius: 0px;  
+        padding: 24px;  
+        margin: 2px;  
+        font-size: 16px;  
+    }  
+      
+      
+    #calc{  
+    width: 195px;  
+    border: 2px solid black;  
+        border-radius: 0px;  
+        padding: 20px;  
+        margin: auto;  
+    }  
+      
